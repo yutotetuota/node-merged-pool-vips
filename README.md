@@ -32,7 +32,7 @@ Features
 * When started with a coin daemon that hasn't finished syncing to the network it shows the blockchain download progress and initializes once synced
 
 #### Hashing algorithms supported:
-* ✓ __SHA256__ (VIPSTARCOIN and HTMLCOIN)(I've gotten reports Bitcoin etc... is not working)
+* ✓ __SHA256__ (VIPSTARCOIN and HTMLCOIN)
 
 
 Requirements
