@@ -9,9 +9,8 @@
         "pool",
         "server",
         "poolserver",
-        "bitcoin",
-        "litecoin",
-        "scrypt",
+        "vipstarcoin",
+        "sha256d",
         "multipool",
         "multicoin"
     ],
