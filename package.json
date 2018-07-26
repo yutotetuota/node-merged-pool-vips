@@ -33,7 +33,7 @@
         "url": "https://github.com/yutotetuota/node-merged-pool-vips.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "unomp-multi-hashing": "https://github.com/yutotetuota/node-multi-hashing-unomp",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
